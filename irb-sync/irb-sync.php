@@ -7,7 +7,7 @@
  * Author: Mayank
  * License: GPL2
  */
-
+require_once IRB_SYNC_PATH . 'includes/class-api-client.php';
 if (!defined('ABSPATH')) {
     exit;
 }
